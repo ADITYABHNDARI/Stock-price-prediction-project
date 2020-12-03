@@ -7,7 +7,7 @@
 ![PyPI - Wheel](https://img.shields.io/pypi/wheel/numpy?color=cyan&style=plastic)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?logo=paypal&style=flat-square)](https://paypal.me/iAdityaBhandari/1000)&nbsp;
 
-## Stock-project
+## Stock Price Prediction
 Machine learning has significant applications in stock price prediction. In this machine learning project, we will be talking about predicting the returns on stocks. This is a very complex task and has uncertainties.
 
 We will develop this project into two parts:
