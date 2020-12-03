@@ -1,4 +1,11 @@
-# Stock-project
+![Lines of code](https://img.shields.io/tokei/lines/github/ADITYABHNDARI/Stock-project?logo=GITHUB&style=plastic)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/numpy?color=yellow&label=numpy&logo=numpy&logoColor=red)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/dash?color=cyan&label=Dash&logo=dash&logoColor=blue)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/keras?color=cyan&label=Keras&logo=keras)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas?color=purple&label=Pandas&logo=pandas)
+![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/ms-python.vscode-pylance?label=Pylance&style=plastic)
+![PyPI - Wheel](https://img.shields.io/pypi/wheel/numpy?color=cyan&style=plastic)
+## Stock-project
 Machine learning has significant applications in stock price prediction. In this machine learning project, we will be talking about predicting the returns on stocks. This is a very complex task and has uncertainties.
 
 We will develop this project into two parts:
