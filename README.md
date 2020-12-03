@@ -5,6 +5,7 @@
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/pandas?color=purple&label=Pandas&logo=pandas)
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/ms-python.vscode-pylance?label=Pylance&style=plastic)
 ![PyPI - Wheel](https://img.shields.io/pypi/wheel/numpy?color=cyan&style=plastic)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg?logo=paypal&style=flat-square)](https://paypal.me/iAdityaBhandari/1000)&nbsp;
 ## Stock-project
 Machine learning has significant applications in stock price prediction. In this machine learning project, we will be talking about predicting the returns on stocks. This is a very complex task and has uncertainties.
 
